@@ -1,11 +1,11 @@
 {
-    "name": "my_schedule_app",
-    "short_name": "my_schedule_app",
+    "name": "Modeus Mobile",
+    "short_name": "Modeus",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "Original by JasonVurhyz. Modeus Mobile is a mobile application for managing your schedule efficiently.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
